@@ -2,10 +2,10 @@ import discord
 import asyncio
 import random
 
-token = 'Njk0NjU3NDU5Nzg4MTg1NjIw.XoS4pA.Mls2fwRw7iAz3curK4j5g_h6qgc' # токен бота
-serverid = 676943098143703090# айди сервера
-rainbowrolename = "𝕊𝕒𝕥𝕚𝕣𝕖™" # название роли
-delay = 5 # интервал
+token = '----' # token 
+serverid = ----# id
+rainbowrolename = "-----" # role
+delay = 5 # interval
 
 
 client = discord.Client()
